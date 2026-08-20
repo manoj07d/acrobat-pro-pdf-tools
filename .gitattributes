@@ -1,0 +1,12 @@
+*.svg text
+*.min.js linguist-generated
+* text=auto  
+
+*.tsx linguist-detectable 
+dist/* linguist-vendored
+src/**/*.tsx linguist-detectable
+*.html linguist-vendored
+docs/index.html linguist-vendored
+
+*.map linguist-generated
+# eof 07f61232
