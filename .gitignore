@@ -1,0 +1,7 @@
+*.tgz
+.env
+.env.local
+build/
+npm-debug.log*
+.next/
+*.log
